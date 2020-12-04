@@ -1,1 +1,1 @@
-# Android_All_Test
+这个仓库用来存放所有Android的测试文件，项目文件。
